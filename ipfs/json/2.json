@@ -1,0 +1,23 @@
+{
+  "name": "MetropolitanGiftCollection #2",
+  "description": "NFT del MVP Metropolitan Web que se dara como regalo o se podra comprar",
+  "image": "ipfs://QmYerT6bzAWUZQs9t68DwAsfjMuLtxfY6bGtyEYvLNnQV3/2.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Morado"
+    },
+    {
+      "trait_type": "Road",
+      "value": "Pista"
+    },
+    {
+      "trait_type": "Transport",
+      "value": "Verde"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "PerroFutbol"
+    }
+  ]
+}

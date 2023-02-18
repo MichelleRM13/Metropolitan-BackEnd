@@ -1,0 +1,23 @@
+{
+  "name": "MetropolitanGiftCollection #107",
+  "description": "NFT del MVP Metropolitan Web que se dara como regalo o se podra comprar",
+  "image": "ipfs://QmYerT6bzAWUZQs9t68DwAsfjMuLtxfY6bGtyEYvLNnQV3/107.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ColoresPastel"
+    },
+    {
+      "trait_type": "Road",
+      "value": "Pasto"
+    },
+    {
+      "trait_type": "Transport",
+      "value": "BusEscolar"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Cerdo"
+    }
+  ]
+}
